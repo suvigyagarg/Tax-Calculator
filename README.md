@@ -40,7 +40,7 @@ To use the app, the user needs to enter the following information as whole numbe
 
 The app will then calculate the tax to be paid and the overall income.
 
-###Please note that the app assumes the user will enter 0 values in the input fields instead of leaving them blank.
+**Note**: The app assumes that the user will enter 0 values in the input fields instead of leaving them blank. and User would enter the value without the use of any commas.
 
 ## Challenges
 
