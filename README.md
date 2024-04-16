@@ -4,8 +4,9 @@ This is a tax calculator web app built using HTML, JavaScript, jQuery, and Boots
 
 ## Hosted Links
 
--You can find the hosted links for this project at [suvigyagarg@github.com](https://suvigyagarg.github.io/Tax-Calculator/).
--Hosted on Netlify as well link for this project  [suvigyagarg@github.com](https://tax-calculator-suvigya.netlify.app/).
+-You can find the hosted links for this project at [suvigyagarg.github.io/Tax-Calculator](https://suvigyagarg.github.io/Tax-Calculator/).
+
+-Hosted on Netlify as well link for this project  [tax-calculator-suvigya.netlify.app](https://tax-calculator-suvigya.netlify.app/).
 
 ## How to Run
 
