@@ -1,6 +1,10 @@
 # Tax Calculator
 
-This is a tax calculator web app built using HTML, JavaScript, jQuery, and Bootstrap. It helps users calculate their tax based on their income, deductions, and age.
+This is a tax calculator web app built using HTML, JavaScript, jQuery, and Bootstrap. It helps users calculate their tax based on their income, deductions, and age. This was provided to me as a challenge Assignment by Fyle.
+
+## Hosted Links
+
+You can find the hosted links for this project at [suvigyagarg@github.com](https://suvigyagarg.github.io/Tax-Calculator/).
 
 ## How to Run
 
@@ -36,14 +40,12 @@ To use the app, the user needs to enter the following information as whole numbe
 
 The app will then calculate the tax to be paid and the overall income.
 
-Please note that the app assumes the user will enter 0 values in the input fields instead of leaving them blank.
+###Please note that the app assumes the user will enter 0 values in the input fields instead of leaving them blank.
 
 ## Challenges
 
 One of the challenges I faced while building this app was using jQuery for input validation. Instead of using the `required` attribute for checking whether a field is empty and I had to validate whether the input is a number or not.
 
-## Hosted Links
 
-You can find the hosted links for this project at [dogfm@github.com](https://github.com/dogfm).
 
-Feel free to explore the code !
+
